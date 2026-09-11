@@ -44,4 +44,4 @@ streamlit run app.py
 
 ## 👨‍💻 Developed By
 
-B.Sc. Computer Science Mini Project
+Final Year B.Sc. Computer Science Student(Mini Project)
